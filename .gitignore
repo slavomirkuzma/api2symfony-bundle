@@ -4,3 +4,5 @@
 composer.lock
 composer.phar
 .DS_Store
+/.project
+/.buildpath
